@@ -1,0 +1,39 @@
+name: Use-case proposal
+description: Propose and discuss a possible project idea
+title: "Use case: "
+labels:
+  - use-case
+body:
+  - type: markdown
+    attributes:
+      value: |
+        First create a full proposal from `usecases/TEMPLATE.md`, then use this issue to coordinate discussion.
+  - type: input
+    id: proposal
+    attributes:
+      label: Proposal file
+      description: Link to the Markdown proposal in the usecases folder.
+      placeholder: usecases/name-short-idea.md
+    validations:
+      required: true
+  - type: textarea
+    id: question
+    attributes:
+      label: Research question
+      description: State the exact question in one sentence.
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Data-feasibility evidence
+      description: What real source, sample, fields, coverage, and access conditions have been checked?
+    validations:
+      required: true
+  - type: textarea
+    id: decision
+    attributes:
+      label: Decision needed
+      description: What feedback or choice do you need from the team?
+    validations:
+      required: true
