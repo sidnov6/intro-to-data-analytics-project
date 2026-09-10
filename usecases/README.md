@@ -2,6 +2,12 @@
 
 This folder is the team's idea board. Add **one Markdown file per idea**. Do not delete rejected ideas: update their status so the reasoning remains visible.
 
+## Proposals to review
+
+| Proposal | Author | Status | Document |
+|---|---|---|---|
+| [Predicting aircraft delays](sid-aircraft-delays.md) | sidnov6 | `ready-for-review` | [Word proposal](assets/aircraft-delay-proposal.docx) |
+
 ## Add an idea
 
 1. Copy [`TEMPLATE.md`](TEMPLATE.md).

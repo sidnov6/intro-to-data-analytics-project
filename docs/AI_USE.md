@@ -5,6 +5,7 @@ Record material AI assistance so the group can review it and acknowledge it accu
 | Date | Person | Tool/model | Task | Files/sections affected | Human verification performed | Accepted, changed, or rejected |
 |---|---|---|---|---|---|---|
 | 2026-09-10 | Repository owner | AI assistant | Drafted the initial neutral repository structure and project documentation from the reviewed course requirements | Repository documentation | Check against Canvas and team workflow required | Pending team review |
+| 2026-09-10 | Repository owner | Codex | Drafted the aircraft-delay proposal and prepared its Markdown version and Word attachment; incorporated a prior public-data feasibility audit | `usecases/sid-aircraft-delays.md`, `usecases/assets/aircraft-delay-proposal.docx`, `usecases/README.md` | Automated data checks were performed; human review of the proposal and evidence remains pending | Pending team review |
 
 ## Rules
 
